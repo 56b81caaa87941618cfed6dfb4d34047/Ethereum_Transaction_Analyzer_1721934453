@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app interface?\", \"option1\": \"On the main page, center-aligned\", \"option2\": \"In the app's top navigation bar\"}, {\"question 2\": \"What functionality should the 'Hello World' button have upon being clicked?\", \"option1\": \"Display a greeting message on the screen\", \"option2\": \"Navigate the user to a new page with more content\"}], \"input_token_count\": 262, \"output_token_count\": 107, \"time_taken\": \"0:00:08.973080\"}",
         "timestamp": "25072024190837",
         "message_id": "guest25072024190827"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hey there",
+        "timestamp": "25072024191010",
+        "message_id": "guest25072024191009"
     }
 ]

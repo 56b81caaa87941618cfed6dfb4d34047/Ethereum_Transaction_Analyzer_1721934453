@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button that says hey there",
+        "message_id": "guest25072024191009",
+        "timestamp": "25072024191010",
+        "component_file_name": "purple_header_component_1721934455",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app interface?\", \"option1\": \"On the main page, center-aligned\", \"option2\": \"In the app's top navigation bar\"}, {\"question 2\": \"What functionality should the 'Hello World' button have upon being clicked?\", \"option1\": \"Display a greeting message on the screen\", \"option2\": \"Navigate the user to a new page with more content\"}], \"input_token_count\": 262, \"output_token_count\": 107, \"time_taken\": \"0:00:08.973080\"}",
         "message_id": "guest25072024190827",
