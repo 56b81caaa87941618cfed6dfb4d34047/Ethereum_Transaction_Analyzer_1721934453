@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app interface?\", \"option1\": \"On the main page, center-aligned\", \"option2\": \"In the app's top navigation bar\"}, {\"question 2\": \"What functionality should the 'Hello World' button have upon being clicked?\", \"option1\": \"Display a greeting message on the screen\", \"option2\": \"Navigate the user to a new page with more content\"}], \"input_token_count\": 262, \"output_token_count\": 107, \"time_taken\": \"0:00:08.973080\"}",
+        "message_id": "guest25072024190827",
+        "timestamp": "25072024190837",
+        "component_file_name": "purple_header_component_1721934455",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dark mode toggle for easier viewing in different lighting conditions\", \"checked\": true}, {\"feature\": \"Customizable alerts for transactions over a user-defined value\", \"checked\": false}, {\"feature\": \"Interactive graphs to visualize the frequency and volume of transactions over time\", \"checked\": false}, {\"feature\": \"Filter options for sorting transactions (e.g., by date, value, or sender/receiver)\", \"checked\": true}, {\"feature\": \"Export functionality for transaction data in CSV or JSON format\", \"checked\": false}, {\"feature\": \"Real-time updates for new transactions without needing to refresh the page\", \"checked\": true}], \"input_token_count\": 216, \"output_token_count\": 145, \"time_taken\": \"0:00:02.931425\"}",
         "message_id": "guest25072024190827",
